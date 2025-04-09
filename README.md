@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300px">
 </p>
+
 
 <h1 align="center">Olá! Eu sou o Marcelo Freitas 👋</h1>
 

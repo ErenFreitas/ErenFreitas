@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Fala aí! Eu sou o Marcelo Freitas 👋</h1>
 
-<!--
-**ErenFreitas/ErenFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Apaixonado por animes, jogos, tecnologia e hardware  
+💻 Estudante de programação, atualmente focado em **Python** (nível básico/intermediário)  
+🎥 Também curto edição de vídeo e explorar tudo o que envolve criatividade e tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Áreas que tenho interesse:
+- Desenvolvimento de jogos (como **Pygame**)
+- Desenvolvimento de aplicativos Android (quero aprender **Kotlin**)
+- Automação com **Power Automate**
+- Banco de dados com **SQL**
+- Computação em nuvem (**AWS**)
+- Edição de vídeo e produtividade
+
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+#### Linguagens:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### IDEs e editores:
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+#### Plataformas e Ferramentas:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white)
+
+---
+
+### 🎯 Objetivos:
+- Criar meu primeiro jogo e meu primeiro app Android
+- Evoluir na lógica de programação
+- Me tornar um profissional completo com conhecimento em várias áreas de tech
+
+---
+
+<div align="center">
+  Sempre aprendendo algo novo. Bora evoluir juntos! 🚀
+</div>

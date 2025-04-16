@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300px">
 </p>
 
-
 <h1 align="center">Olá! Eu sou o Marcelo Freitas 👋</h1>
 
 🎮 Apaixonado por animes, jogos, tecnologia e hardware  
@@ -13,7 +12,7 @@
 
 ### 🚀 Áreas que tenho interesse:
 - Desenvolvimento de jogos (como **Pygame**)
-- Desenvolvimento de aplicativos Android (quero aprender **Kotlin**)
+- Desenvolvimento de aplicativos Android (quero aprender **Kotlin** e **Flutter**)
 - Automação com **Power Automate**
 - Banco de dados com **SQL**
 - Computação em nuvem (**AWS**)
@@ -27,6 +26,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### IDEs e editores:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
